@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "esnext",
+    "noImplicitAny": true,
+    "preserveConstEnums": true,
+    "esModuleInterop": true,
+    "outDir": "./dist",
+    "strict": true,
+    "sourceMap": true
+  },
+  "include": [
+    "./**/*"
+  ],
+  "exclude": []
+}
